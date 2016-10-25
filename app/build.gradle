@@ -6,7 +6,7 @@ android {
     buildToolsVersion "23.0.3"
     defaultConfig {
         applicationId "com.harry.mvpdemo"
-        minSdkVersion 21
+        minSdkVersion 17
         targetSdkVersion 3
         versionCode 1
         versionName "1.0"
